@@ -1,0 +1,61 @@
+body{
+	background-image: url(image.jpg);
+
+}
+#car{
+    margin-top: 200px;
+}
+#car input{
+	display block;
+	padding: 20px;
+	margin-bottom: 5px;
+}
+.model{
+	background-color: transparent;
+	border-color: black;
+
+
+}
+.price-by-day
+{
+	border-color: black;
+	background-color: transparent;
+}
+.price-by-km{
+	border-color: black;
+	background-color: transparent;
+}
+#rental input{
+	display block;
+	padding: 20px;
+	margin-bottom: 5px;
+}
+.begin{
+	border-color: black;
+	background-color: transparent;
+
+}
+.end{
+	border-color: black;
+	background-color: transparent;
+}
+.distance{
+	border-color: black;
+	background-color: transparent;
+}
+.option{
+	border-style:  none;
+	background-color: transparent;
+}
+h2{
+	width: 30%;
+	padding-left: 250px;
+	
+}
+h1{
+	color: #CD5C5C;
+	text-align: center;
+	font-style: italic;
+	font-family: "Zapfino"
+}
+
